@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="br.com.sistema.controller.VeiculosController" project="lavajato-design" 
+    file="/lavajato-design/src/main/java/br/com/sistema/controller/VeiculosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="257" x="79" y="10"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.com.sistema.controller.ServicosController" project="lavajato-design" 
+    file="/lavajato-design/src/main/java/br/com/sistema/controller/ServicosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="245" x="376" y="10"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="br.com.sistema.controller.LoginController" project="lavajato-design" 
+    file="/lavajato-design/src/main/java/br/com/sistema/controller/LoginController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="116" x="661" y="10"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="br.com.sistema.controller.ClientesController" project="lavajato-design" 
+    file="/lavajato-design/src/main/java/br/com/sistema/controller/ClientesController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="251" x="817" y="10"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
